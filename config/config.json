@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+      "manifest": "./src/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.manifest.json",
+      "outputPath": "./dist/uc-wp-policy-wheel.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ucWpPolicyWheelStrings": "webparts/ucWpPolicyWheel/loc/{locale}.js"
+  }
+}

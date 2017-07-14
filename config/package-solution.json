@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "uc-wp-policy-wheel-client-side-solution",
+    "id": "7d1b0517-4f67-4eb2-9aa3-63c5f8af13ec",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/uc-wp-policy-wheel.sppkg"
+  }
+}

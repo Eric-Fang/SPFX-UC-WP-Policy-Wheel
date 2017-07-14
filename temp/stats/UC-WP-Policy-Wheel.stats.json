@@ -1,0 +1,202 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "2.2.1",
+  "hash": "c66b880c1fc39dadfa41",
+  "time": 285,
+  "publicPath": "",
+  "assetsByChunkName": {
+    "uc-wp-policy-wheel.bundle": "uc-wp-policy-wheel.bundle.js"
+  },
+  "assets": [
+    {
+      "name": "uc-wp-policy-wheel.bundle.js",
+      "size": 1972,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "uc-wp-policy-wheel.bundle"
+      ],
+      "emitted": true
+    }
+  ],
+  "entrypoints": {
+    "uc-wp-policy-wheel.bundle": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "uc-wp-policy-wheel.bundle.js"
+      ]
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "extraAsync": false,
+      "size": 3037,
+      "names": [
+        "uc-wp-policy-wheel.bundle"
+      ],
+      "files": [
+        "uc-wp-policy-wheel.bundle.js"
+      ],
+      "hash": "4a9066a7a33ab4261115",
+      "parents": [],
+      "origins": [
+        {
+          "moduleId": 3,
+          "module": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+          "moduleIdentifier": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+          "moduleName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "loc": "",
+          "name": "uc-wp-policy-wheel.bundle",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "external \"@microsoft/sp-core-library\"",
+      "name": "external \"@microsoft/sp-core-library\"",
+      "index": 1,
+      "index2": 0,
+      "size": 42,
+      "cacheable": false,
+      "built": false,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "assets": [],
+      "issuer": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+      "issuerId": 3,
+      "issuerName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+          "module": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "moduleName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "type": "cjs require",
+          "userRequest": "@microsoft/sp-core-library",
+          "loc": "13:24-61"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "depth": 1
+    },
+    {
+      "id": 1,
+      "identifier": "external \"@microsoft/sp-webpart-base\"",
+      "name": "external \"@microsoft/sp-webpart-base\"",
+      "index": 2,
+      "index2": 1,
+      "size": 42,
+      "cacheable": false,
+      "built": false,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "assets": [],
+      "issuer": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+      "issuerId": 3,
+      "issuerName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+          "module": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "moduleName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "type": "cjs require",
+          "userRequest": "@microsoft/sp-webpart-base",
+          "loc": "14:24-61"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "depth": 1
+    },
+    {
+      "id": 2,
+      "identifier": "external \"ucWpPolicyWheelStrings\"",
+      "name": "external \"ucWpPolicyWheelStrings\"",
+      "index": 3,
+      "index2": 2,
+      "size": 42,
+      "cacheable": false,
+      "built": false,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "assets": [],
+      "issuer": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+      "issuerId": 3,
+      "issuerName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+          "module": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "moduleName": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+          "type": "cjs require",
+          "userRequest": "ucWpPolicyWheelStrings",
+          "loc": "15:14-47"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "depth": 1
+    },
+    {
+      "id": 3,
+      "identifier": "C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\node_modules\\source-map-loader\\index.js!C:\\EricFang\\SPFX\\UC-WP-Policy-Wheel\\lib\\webparts\\ucWpPolicyWheel\\UcWpPolicyWheelWebPart.js",
+      "name": "./lib/webparts/ucWpPolicyWheel/UcWpPolicyWheelWebPart.js",
+      "index": 0,
+      "index2": 3,
+      "size": 2911,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "assets": [],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "reasons": [],
+      "usedExports": true,
+      "providedExports": null,
+      "depth": 0,
+      "source": "\"use strict\";\nvar __extends = (this && this.__extends) || (function () {\n    var extendStatics = Object.setPrototypeOf ||\n        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||\n        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };\n    return function (d, b) {\n        extendStatics(d, b);\n        function __() { this.constructor = d; }\n        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());\n    };\n})();\nObject.defineProperty(exports, \"__esModule\", { value: true });\nvar sp_core_library_1 = require(\"@microsoft/sp-core-library\");\nvar sp_webpart_base_1 = require(\"@microsoft/sp-webpart-base\");\nvar strings = require(\"ucWpPolicyWheelStrings\");\n//const policywheel: any = require('./assets/policywheel2_6_58.jpg');\n//<img id=\"PolicyWheel\" alt=\"policywheel2_6_58.jpg\" src=\"${require<string>('./assets/policywheel2_6_58.jpg')}\" border=\"0\" usemap=\"#nav2\" style=\"margin: 5px;\">\nvar UcWpPolicyWheelWebPart = (function (_super) {\n    __extends(UcWpPolicyWheelWebPart, _super);\n    function UcWpPolicyWheelWebPart() {\n        return _super !== null && _super.apply(this, arguments) || this;\n    }\n    UcWpPolicyWheelWebPart.prototype.render = function () {\n        this.domElement.innerHTML = \"${escape(this.properties.description)}\";\n    };\n    Object.defineProperty(UcWpPolicyWheelWebPart.prototype, \"dataVersion\", {\n        get: function () {\n            return sp_core_library_1.Version.parse('1.0');\n        },\n        enumerable: true,\n        configurable: true\n    });\n    UcWpPolicyWheelWebPart.prototype.getPropertyPaneConfiguration = function () {\n        return {\n            pages: [\n                {\n                    header: {\n                        description: strings.PropertyPaneDescription\n                    },\n                    groups: [\n                        {\n                            groupName: strings.BasicGroupName,\n                            groupFields: [\n                                sp_webpart_base_1.PropertyPaneTextField('description', {\n                                    label: strings.DescriptionFieldLabel\n                                }),\n                                sp_webpart_base_1.PropertyPaneTextField('HtmlContent', {\n                                    label: strings.HtmlContentFieldLabel,\n                                    multiline: true\n                                })\n                            ]\n                        }\n                    ]\n                }\n            ]\n        };\n    };\n    Object.defineProperty(UcWpPolicyWheelWebPart.prototype, \"disableReactivePropertyChanges\", {\n        get: function () {\n            return true;\n        },\n        enumerable: true,\n        configurable: true\n    });\n    return UcWpPolicyWheelWebPart;\n}(sp_webpart_base_1.BaseClientSideWebPart));\nexports.default = UcWpPolicyWheelWebPart;\n\n"
+    }
+  ],
+  "filteredModules": 0,
+  "children": []
+}
